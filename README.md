@@ -1,2 +1,2 @@
-# fuzzy-succotash
 # kazuya-test
+- 勉強用リポジトリ
